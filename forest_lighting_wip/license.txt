@@ -1,0 +1,11 @@
+Model Information:
+* title:	Forest Lighting (WIP)
+* source:	https://sketchfab.com/3d-models/forest-lighting-wip-d2f3efb998d6483d81ba62e9f16641d7
+* author:	Ti Mur (https://sketchfab.com/cgtimur)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Forest Lighting (WIP)" (https://sketchfab.com/3d-models/forest-lighting-wip-d2f3efb998d6483d81ba62e9f16641d7) by Ti Mur (https://sketchfab.com/cgtimur) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
