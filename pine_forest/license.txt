@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pine Forest
+* source:	https://sketchfab.com/3d-models/pine-forest-ece69535f7584e099488f65f2072264e
+* author:	fangzhangmnm (https://sketchfab.com/fangzhangmnm)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pine Forest" (https://sketchfab.com/3d-models/pine-forest-ece69535f7584e099488f65f2072264e) by fangzhangmnm (https://sketchfab.com/fangzhangmnm) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
